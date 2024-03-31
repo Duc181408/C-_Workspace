@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "name": "windows-clang-x64",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "cStandard": "gnu17",
+      "intelliSenseMode": "windows-clang-x64",
+      "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}
